@@ -1,0 +1,64 @@
+E:/SV??????/NF_lab/test.sv {1 {vlog -work work -vopt -sv -stats=none E:/SV??????/NF_lab/test.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling program test
+
+Top level modules:
+	test
+
+} {} {}} E:/SV??????/NF_lab/router_io.sv {1 {vlog -work work -vopt -sv -stats=none E:/SV??????/NF_lab/router_io.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface router_io
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Mrsou/Desktop/sv_labs/solutions/lab3/router_test_top.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Mrsou/Desktop/sv_labs/solutions/lab3/router_test_top.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface router_io
+-- Compiling module router_test_top
+
+Top level modules:
+	router_test_top
+
+} {} {}} C:/Users/Mrsou/Desktop/sv_labs/rtl/router.v {1 {vlog -work work -vopt -stats=none C:/Users/Mrsou/Desktop/sv_labs/rtl/router.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module router
+-- Compiling module rtslice
+-- Compiling module rtslicef
+
+Top level modules:
+	router
+	rtslicef
+
+} {} {}} E:/SV??????/NF_lab/router_test_top.sv {1 {vlog -work work -vopt -sv -stats=none E:/SV??????/NF_lab/router_test_top.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface router_io
+-- Compiling module router_test_top
+
+Top level modules:
+	router_test_top
+
+} {} {}} E:/SV??????/NF_lab/router.v {1 {vlog -work work -vopt -stats=none E:/SV??????/NF_lab/router.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module router
+-- Compiling module rtslice
+-- Compiling module rtslicef
+
+Top level modules:
+	router
+
+} {} {}} C:/Users/Mrsou/Desktop/sv_labs/solutions/lab3/test.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Mrsou/Desktop/sv_labs/solutions/lab3/test.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling program test
+
+Top level modules:
+	test
+
+} {} {}} C:/Users/Mrsou/Desktop/sv_labs/solutions/lab3/router_io.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Mrsou/Desktop/sv_labs/solutions/lab3/router_io.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface router_io
+
+Top level modules:
+	--none--
+
+} {} {}}
